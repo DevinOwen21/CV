@@ -1,0 +1,10 @@
+body{
+    background-color: #E3FDFD;
+}
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 5px;
+    width: 10%;
+    border-color: aqua;
+}
